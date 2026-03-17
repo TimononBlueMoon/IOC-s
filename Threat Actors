@@ -1,5 +1,5 @@
 (“APT33" OR "APT34" OR "APT35" OR "APT28" OR "Fancy Bear" OR "APT29" OR "Cozy Bear" OR "Midnight Blizzard" OR "APT32" OR "OceanLotus" OR "APT-C-00" OR "APT37" OR “APT38" OR "Lazarus subgroup" OR "APT41" OR "Wicked Panda" ) AND (report OR blog OR "threat intelligence" OR advisory)
-("Void Manticore" OR "Handala" OR "MOIS") AND (cyber)
+("Void Manticore" OR "Handala" OR "MOIS" OR "MuddyWater") AND (cyber)
 
 Retail - [Muddled Libra(aka Scattered Spider),UNC3944,ShinyHunters]
 Hospital - [(APT39(Iran – MOIS),APT41(China – MSS aligned),APT32,APT37(North Korea – Reaper/ScarCruft),APT29(Russia – SVR/Midnight Blizzard),APT32(Vietnam – OceanLotus)]
