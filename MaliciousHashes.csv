@@ -4,6 +4,7 @@
 b73bd2e4cb16e9036aa7125587c5b3289e17e62f8831de1f9709896797435b82,,,TradeAI.exe,"Signed, potentially legitimate executable that’s been used to embed malicious code into. Has an original PDB of TradeAIbot.exe"
 e13d9304f7ebdab13f6cb6fae3dff3a007c87fed59b0e06ebad3ecfebf18b9fd,,,OpenClawBot,Mach-O universal binary with 2 architectures: [x86_64:Mach-O 64-bit executable x86_64] [arm64:Mach-O 64-bit executable arm64]
 b8b80a8deed530a5c4ee34bbc9f681cbbace89c7a05287890cf2ae5974f61633,,,RapiddocUpdater.exe,
+7c79c2ec34e0f70cc65cb0641e7b47e68bd7412428da8f1e594d208bfe2efae9,,,pdfclickupdater.exe,maliciouspdf editor campaign
 e13d9304f7ebdab13f6cb6fae3dff3a007c87fed59b0e06ebad3ecfebf18b9fd,,,OpenClawBot,Mach-O universal binary with 2 architectures: [x86_64:Mach-O 64-bit executable x86_64] [arm64:Mach-O 64-bit executable arm64]
 518ff5fbfa4296abf38dfc342107f70e1491a7460978da6315a75175fb70e2b3,,,,"Main installer, fails to execute if detected executing in a virtual environment. Used to deploy information stealers on the endpoint"
 f03e38e1c39ac52179e43107cf7511b9407edf83c008562250f5f340523b4b51,,,,Vidar Information stealer that fetches C2 from Telegram Channel and Steam Profile names
