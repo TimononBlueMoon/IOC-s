@@ -9,5 +9,6 @@ Telecom/IT - [(APT39(Iran – MOIS),APT34(Iran – OilRig),APT41(China – MSS a
 High Tech - [APT33(Iran – Elfin / Peach Sandstorm),APT37 (North Korea – Reaper/ScarCruft),APT32(Vietnam – OceanLotus)]
 Banking - [APT38 (North Korea – Lazarus subgroup),]
 
+("Vidar" OR "Lumma" OR "RedLine" OR "Atomic" OR "StealC" OR "META") AND ("Malware" OR "Cyber")
 
 
