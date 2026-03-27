@@ -97,4 +97,5 @@ f8d2c5cb898cf92495fdcb7e20f509603e1bdd62ba4b61bd7694a8e33a4c738f,,,Libyan oil re
 00019221fb0b61b769d4168664f11c1258e4d61659bd3ffecb126eaf92dbfe2f,,,SnappyClient,SnappyClient is a C++-based C2 implant with the ability to steal data and provide remote access
 6e360fca0b1e3021908f8de271d80620d634600955fefc9fd0af40557cd517d7,,,SnappyClient,SnappyClient is a C++-based C2 implant with the ability to steal data and provide remote access
 64a2609d6707a2ebfe5b40f5227d0f9b85911b752cd04f830d1bbc8aa6bec2c8,,,SnappyClient,SnappyClient is a C++-based C2 implant with the ability to steal data and provide remote access
+1e63be724bf651bb17bcf181d11bacfabef6a6360dcdfda945d6389e80f2b958,,,Infiniti-stealer,a new macOS infostealer using ClickFix and Python/Nuitka
 
