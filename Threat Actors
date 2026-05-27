@@ -1,3 +1,7 @@
+("RAT") + ("Malware" OR "Cyber")
+
+("Vidar" OR "Lumma" OR "RedLine" OR "Atomic" OR "StealC" OR "META" OR "Glove") AND ("Malware" OR "Cyber")
+
 (“APT33" OR "APT34" OR "APT35" OR "APT28" OR "Fancy Bear" OR "APT29" OR "Cozy Bear" OR "Midnight Blizzard" OR "APT32" OR "OceanLotus" OR "APT-C-00" OR "APT37" OR “APT38" OR "Lazarus subgroup" OR "APT41" OR "Wicked Panda" ) AND (report OR blog OR "threat intelligence" OR advisory)
 ("Void Manticore" OR "Handala" OR "MOIS" OR "MuddyWater") AND (cyber)
 ("shinyhunters" OR "Scattered Spider" OR "UNC3944" OR "Muddled Libra") AND (cyber)
@@ -9,6 +13,6 @@ Telecom/IT - [(APT39(Iran – MOIS),APT34(Iran – OilRig),APT41(China – MSS a
 High Tech - [APT33(Iran – Elfin / Peach Sandstorm),APT37 (North Korea – Reaper/ScarCruft),APT32(Vietnam – OceanLotus)]
 Banking - [APT38 (North Korea – Lazarus subgroup),]
 
-("Vidar" OR "Lumma" OR "RedLine" OR "Atomic" OR "StealC" OR "META" OR "Glove") AND ("Malware" OR "Cyber")
+
 
 
