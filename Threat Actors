@@ -1,4 +1,5 @@
 ("RAT") + ("Malware" OR "Cyber")
+("CVE" + "Exploit" + "Cyber")
 
 ("Vidar" OR "Lumma" OR "RedLine" OR "Atomic" OR "StealC" OR "META" OR "Glove") AND ("Malware" OR "Cyber")
 
