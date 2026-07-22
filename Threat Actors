@@ -1,7 +1,7 @@
 ("RAT") + ("Malware" OR "Cyber")
 ("CVE" + "Exploit" + "Cyber")
 
-("Vidar" OR "Lumma" OR "RedLine" OR "Atomic" OR "StealC" OR "META" OR "Glove") AND ("Malware" OR "Cyber")
+("Vidar" OR "Lumma" OR "RedLine" OR "Atomic" OR "StealC" OR "META" OR "Glove" OR "ACR") AND ("Malware" OR "Cyber")
 
 (“APT33" OR "APT34" OR "APT35" OR "APT28" OR "Fancy Bear" OR "APT29" OR "Cozy Bear" OR "Midnight Blizzard" OR "APT32" OR "OceanLotus" OR "APT-C-00" OR "APT37" OR “APT38" OR "Lazarus subgroup" OR "APT41" OR "Wicked Panda" ) AND (report OR blog OR "threat intelligence" OR advisory)
 ("Void Manticore" OR "Handala" OR "MOIS" OR "MuddyWater") AND (cyber)
